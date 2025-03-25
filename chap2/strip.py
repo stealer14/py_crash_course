@@ -10,6 +10,7 @@ print(favorite_language)
 favorite_language = favorite_language.lstrip()
 print(favorite_language)
 
+#Removing prefixes
 url = 'https://nostarch.com'
 new_link = url.removeprefix('https://')
 print(new_link)

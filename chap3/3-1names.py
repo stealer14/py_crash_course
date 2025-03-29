@@ -1,6 +1,10 @@
 #Try it yourself problems 
 friends = ['Matthew', 'Marcos', 'Jorge', 'Alfredo', 'Francisco']
-
+print(f'Hello {friends[0]}, long time no see.')
+print(f'Hello {friends[1]}, long time no see.')
+print(f'Hello {friends[2]}, long time no see.')
+print(f'Hello {friends[3]}, long time no see.')
+print(f'Hello {friends[4]}, long time no see.')
 #3-1 store and print individual name of friend list.
 for _ in friends:
     print(_)

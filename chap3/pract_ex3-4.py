@@ -1,4 +1,4 @@
-#Practice example 3-4 Try it yourself
+#Guest list Practice example 3-4 Try it yourself
 # 3-4. Guest: Write a program that prompts for the user's name and then greets that person.
 people_list = ['Nati', 'Matthew', 'Benji']
 
@@ -12,10 +12,11 @@ print(f"Sorry {cant_attend.title()} can't make it due to his bed time.")
 people_list[1] = 'Amelia'
 
 #Printing a second set of invitation one for each person who is still in the list
+print('---------------------------------------------')
 print(f"Hello {people_list[0].title()}! How you've been?.")
 print(f"Hello {people_list[1].title()}! How you've been?.")
 print(f"Hello {people_list[2].title()}! How you've been?.")
-
+print("The guest list lenght is:", len(people_list))
 #3-6 More Guests: You just found out that you can invite three more people to dinner.
 # Add the new guests to the list.
 print('---------------------------------------------')

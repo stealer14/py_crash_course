@@ -1,4 +1,4 @@
-#Seeing the world
+#Seeing the world Excercise 3-8
 # Think of at lesat five places in whe world you'd like to visit
 
 #Store the location in a list. Make sure the list is not alpahbetical order

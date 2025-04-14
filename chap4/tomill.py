@@ -2,3 +2,7 @@
 lst = list(range(1,1000001))
 for num in lst:
     print(num)
+
+#4-5 Summing a million: use min and max 
+print("minimum: ", min(lst))
+print("maximum: ", max(lst))

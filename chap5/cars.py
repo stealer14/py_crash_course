@@ -9,4 +9,5 @@ for car in cars:
 # Check for equality
 car = 'audi'
 print(car)
-print(car == 'bmw')
+print(car == 'bmw') #prints false
+print(car == 'audi') #prints true

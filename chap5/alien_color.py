@@ -1,4 +1,6 @@
-#Imagine an alien was just shot down in a game. create a variable called alien_color and assign a velu of green, yellow or red
+# 5-3 
+# Imagine an alien was just shot down in a game. create a variable 
+# called alien_color and assign a velu of green, yellow or red
 alien_color = input('Enter color of the alien: ')
 print(f"Alien color is {alien_color}")
 

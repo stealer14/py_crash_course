@@ -9,5 +9,5 @@ num = int(num)
 if num % 10 == 0:
     print(f"Number {num} is multiple of 10.")
 else:
-    print(f"{num} is not multiple of 10.")
+    print(f"The number {num} is not multiple of 10.")
 
